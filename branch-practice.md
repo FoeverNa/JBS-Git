@@ -19,3 +19,7 @@
 ## The Amazing-SpiderMan2
 
 - 2014, Andrew Garfiled
+
+## Venom
+
+- 2018, Tom Hardy
