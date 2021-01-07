@@ -1,21 +1,21 @@
 # Fillmography
 
-## Spyder-Man
+## Spider-Man
 
 - 2002, Tobey Maguire
 
-## Spyder-Man2
+## Spider-Man2
 
 - 2004, Tobey Maguire
 
-## Spyder-Man3
+## Spider-Man3
 
 - 2007, Tobey Maguire
 
-## Amazing-SpiderMan
+## The Amazing-SpiderMan
+
+- 2012, Andrew Garfiled
+
+## The Amazing-SpiderMan2
 
 - 2014, Andrew Garfiled
-
-## Amazing-SpiderMan2
-
-- 2016, Andrew Garfiled
