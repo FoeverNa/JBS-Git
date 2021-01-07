@@ -11,3 +11,7 @@
 ## Spyder-Man3
 
 - 2007, Tobey Maguire
+
+## Amazing-SpiderMan
+
+- 2014, Andrew Garfiled
