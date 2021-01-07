@@ -15,3 +15,7 @@
 ## Amazing-SpiderMan
 
 - 2014, Andrew Garfiled
+
+## Amazing-SpiderMan2
+
+- 2016, Andrew Garfiled
